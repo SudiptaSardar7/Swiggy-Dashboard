@@ -39,5 +39,5 @@ Veg vs non-veg: close to balanced. Non-veg items cost more on average. This cove
    User_Performance:
    City_Overview: https://github.com/SudiptaSardar7/Swiggy-Dashboard/blob/main/City_Overview.png
    Resturant_Analysis:
-   Insight: 
+   Insight: https://github.com/SudiptaSardar7/Swiggy-Dashboard/blob/main/Insight.png 
    
