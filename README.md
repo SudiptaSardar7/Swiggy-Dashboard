@@ -35,7 +35,7 @@ Top customers: the top 10% generate about 69% of sales, which supports a VIP pro
 Veg vs non-veg: close to balanced. Non-veg items cost more on average. This covers only restaurants with menu data, about 12.5% of sales.
 
 7. Screenshots
-   Overview:
+   Overview:https://github.com/SudiptaSardar7/Swiggy-Dashboard/blob/main/Overview.png
    User_Performance:
    City_Overview: https://github.com/SudiptaSardar7/Swiggy-Dashboard/blob/main/City_Overview.png
    Resturant_Analysis:
