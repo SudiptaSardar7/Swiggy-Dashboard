@@ -33,3 +33,11 @@ Growth: sales rose about 343% in 2018 (overstated, since 2017 covers) and fell a
 Customers: ages 21–25 are the largest group. Students bring in 53% of revenue and men about 57%, which supports targeted campaigns and offers for female customers.
 Top customers: the top 10% generate about 69% of sales, which supports a VIP program.
 Veg vs non-veg: close to balanced. Non-veg items cost more on average. This covers only restaurants with menu data, about 12.5% of sales.
+
+7. Screenshots
+   Overview:
+   User_Performance:
+   City_Overview: https://github.com/SudiptaSardar7/Swiggy-Dashboard/blob/main/City_Overview.png
+   Resturant_Analysis:
+   Insight: 
+   
